@@ -1,0 +1,21 @@
+ipython
+ipykernel
+jupyterlab
+kagglehub
+loguru
+matplotlib
+mkdocs
+notebook
+numpy
+pandas
+pip
+python-docx
+pytest
+python-dotenv
+ruff
+scikit-learn
+seaborn
+statsmodels
+tqdm
+typer
+-e .
