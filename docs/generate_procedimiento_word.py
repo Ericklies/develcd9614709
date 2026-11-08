@@ -7,7 +7,6 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 
-
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = PROJECT_ROOT / "docs" / "procedimiento_actualizacion_repositorio.docx"
 REPOSITORY_URL = "https://github.com/Ericklies/develcd9614709.git"
